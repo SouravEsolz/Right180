@@ -12,6 +12,7 @@
         <meta name="author" content="Steelcoders" />
         
        <!-- Styles -->
+       
         
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
         {{ HTML::style('assets/plugins/pace-master/themes/blue/pace-theme-flash.css') }}
